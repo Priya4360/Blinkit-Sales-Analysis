@@ -7,7 +7,6 @@ This Power BI project aims to conduct a comprehensive analysis of Blinkit's sale
 
 ## Business Requirement
 To analyze Blinkit's performance, the dashboard is focused on:
-
 #### Sales Performance:
 Track overall revenue, average sales, and the number of items sold.
 #### Customer Satisfaction: 
@@ -131,5 +130,8 @@ A matrix card offering a detailed view of all KPIs by outlet type.
 2. Customize filters for specific outlets, locations, or time ranges to derive detailed insights.
 
 3. Generate insights that can help improve operations and strategy.
-
+   
 This README file comprehensively explains your project, guiding users through the objectives, steps, and key deliverables. Let me know if you'd like to add anything else!
+
+## Dashboard
+![Blinkit_Dashboard](https://github.com/user-attachments/assets/632ec831-d911-47c3-995f-6853e1013aec)
