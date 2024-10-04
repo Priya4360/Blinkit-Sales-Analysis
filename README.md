@@ -124,12 +124,12 @@ A funnel map assessing the geographic distribution of sales.
 A matrix card offering a detailed view of all KPIs by outlet type.
 
 ### Usage
-Once the Power BI file is loaded:
+#### Once the Power BI file is loaded:
 
-Interact with the filters and visuals to explore sales performance, customer ratings, and outlet metrics.
+1. Interact with the filters and visuals to explore sales performance, customer ratings, and outlet metrics.
 
-Customize filters for specific outlets, locations, or time ranges to derive detailed insights.
+2. Customize filters for specific outlets, locations, or time ranges to derive detailed insights.
 
-Generate insights that can help improve operations and strategy.
+3. Generate insights that can help improve operations and strategy.
 
 This README file comprehensively explains your project, guiding users through the objectives, steps, and key deliverables. Let me know if you'd like to add anything else!
